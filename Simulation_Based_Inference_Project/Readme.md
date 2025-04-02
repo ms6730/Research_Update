@@ -5,7 +5,7 @@ This repository contains ongoing updates related to the research I am currently 
 ## Individual Meetings
 
 This folder includes two versions of presentation slides:
-- **Combined Slides**: A single PowerPoint file that compiles all individual meeting slides into one document.
+- **Combined Slides**: A single PowerPoint file that combines all individual meeting slides into one document.
 - **Separated Slides**: A folder containing a separate PowerPoint file for each individual meeting.
 
 ## Research Results
